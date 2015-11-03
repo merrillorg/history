@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 
 namespace Meiot.Shell
 {
@@ -7,6 +7,8 @@ namespace Meiot.Shell
         static void Main(string[] args)
         {
             Console.WriteLine("let it begin");
+
+            Console.WriteLine("Here we go...");
 
             Console.WriteLine("Hit Enter...");
 
