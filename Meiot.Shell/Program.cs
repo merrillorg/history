@@ -8,6 +8,9 @@ namespace Meiot.Shell
         {
             Console.WriteLine("let it begin");
 
+            Console.WriteLine("Here we go...");
+
+
             Console.WriteLine("Hit Enter...");
             var response = Console.ReadLine();
         }
