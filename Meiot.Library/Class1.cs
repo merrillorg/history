@@ -8,5 +8,8 @@ namespace Meiot.Library
 {
     public class Class1
     {
+        public Class1()
+        {
+        }
     }
 }
