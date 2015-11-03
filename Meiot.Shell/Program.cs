@@ -9,6 +9,9 @@ namespace Meiot.Shell
             Console.WriteLine("let it begin");
 
             Console.WriteLine("Hit Enter...");
+
+            Console.WriteLine("Created in master...");
+
             var response = Console.ReadLine();
         }
     }
