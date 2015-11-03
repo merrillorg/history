@@ -10,6 +10,7 @@ namespace Meiot.Shell
 
             Console.WriteLine("Here we go...");
 
+            Console.WriteLine("And here we go...");
 
             Console.WriteLine("Hit Enter...");
             var response = Console.ReadLine();
