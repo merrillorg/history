@@ -12,6 +12,7 @@ namespace Meiot.Library
         private readonly DataSet someDataSet;
         public Class1()
         {
+            //Adding this comment on github.com
             someDataSet = new DataSet();
         }
     }
