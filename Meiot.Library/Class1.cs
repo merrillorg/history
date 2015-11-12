@@ -14,5 +14,10 @@ namespace Meiot.Library
         {
             someDataSet = new DataSet();
         }
+
+        public void Execute()
+        {
+            // do the work
+        }
     }
 }
