@@ -15,5 +15,10 @@ namespace Meiot.Library
             //Adding this comment on github.com
             someDataSet = new DataSet();
         }
+
+        public void Execute()
+        {
+            // do the work
+        }
     }
 }
