@@ -9,6 +9,8 @@ namespace Meiot.Library
 {
     public class Class1
     {
+        // comment here locally
+
         private readonly DataSet someDataSet;
         public Class1()
         {
